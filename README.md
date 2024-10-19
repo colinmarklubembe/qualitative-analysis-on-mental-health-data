@@ -25,4 +25,4 @@ The qualitative analysis methods applied in this notebook include:
 - **Word Cloud Visualization**: Creating visual representations of the most frequent terms in respondents' feedback to identify important themes.
 - **Cross-tabulation**: Comparing different demographic groups to see how their responses vary.
 
-Through this analysis, we aim to extract actionable insights into how universities can better support the mental health of their students.
+Through this analysis, we aim to extract actionable insights into how universities can better support the mental health of students.
